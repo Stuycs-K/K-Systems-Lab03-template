@@ -11,4 +11,4 @@ For this assignment, do not create helper functions, put everything inside main 
 7. USING ONLY POINTER VARIABLES (that is, do not use the array variables) do the following:
    * Populate the second array with the values in the first but in reverse order
    * Print out the values in the second array using pointer notation *
-   * Do this last step again using array notation (try the array variable and the pointer variable with the [] ).
+   * Do this last step again using array notation (Try both the array variable and the pointer variable with array notation [] to see if there is any difference).
