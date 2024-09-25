@@ -1,10 +1,12 @@
 # Systems-Lab03
 
-**IMPORTANT**
+**IMPORTANT:**
+
 You are not using array[index] notation for all portions of this lab, make sure you use pointer arithmetic when indicated.
 
 Also put everything inside main (it will not be too long). We will talk about passing arrays and pointers are function arguments next week.
 
+**Instructions:**
 
 1. Create an array large enough to store 10 ints.
 2. Set the first value in the array to 0.
